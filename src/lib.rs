@@ -297,6 +297,7 @@ pub fn game_loop() {
         }
         offset += 1;
         if key_state.is_triggered(gba::Key::A) {
+            rand.next_u8();
             goose.jump();
         }
         gba::hw::write_bg0hofs(offset);
