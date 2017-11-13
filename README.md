@@ -2,6 +2,8 @@ Flappy Goose for GBA in Rust
 ============================
 ![Flappy Goose Screenshot](/screenshot.png)
 
+Play it in your browser at mlht.ca/FlappyGoose
+
 A rust game for the GBA. Based on the previous work of exoticorn on [gba-rust](https://github.com/exoticorn/gba-rust)
 
 To build, you need to install nightly rust + sources (probably using rustup.rs)
