@@ -1,5 +1,6 @@
 Flappy Goose for GBA in Rust
 ============================
+![Flappy Goose Screenshot](/screenshot.png)
 
 A rust game for the GBA. Based on the previous work of exoticorn on [gba-rust](https://github.com/exoticorn/gba-rust)
 
